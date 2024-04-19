@@ -109,7 +109,6 @@ let user = {
 console.log(user["company"]);
 
 
-
 function ShippingCost() {
     let totalPrice = 19;
 
