@@ -1,0 +1,15 @@
+SERVER is made using express pkg through nodejs
+npm i express
+
+API = Application  Programming Interface. It's a set of rules that allows different software applications to communicate with each
+To run the server, use:  
+node app.js
+
+
+
+SERVER METHODS TO SHARE DATE
+- GET
+- POST
+- PATCH / UPDATE 
+- DELETE
+
