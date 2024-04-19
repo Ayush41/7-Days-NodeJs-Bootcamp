@@ -126,3 +126,7 @@ function ShippingCost() {
 
 ShippingCost();
 
+// Arrow function to addition of numbers
+const addNumbers= (a,b) => a+b ;
+
+console.log("The sum is ",addNumbers(4,6));
