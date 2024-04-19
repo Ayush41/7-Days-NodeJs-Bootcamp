@@ -11,8 +11,8 @@
 //     console.log('file is created');
 // });
 
-var _ = require('lodash'); // '_'  is a shorthand for loadash, which is a part of lodash library
 
+// var _ = require('lodash'); // '_'  is a shorthand for loadash, which is a part of lodash library
 // const notes = require('./notes.js'); //using local  module 
 
 // console.log('server file is available');                 
@@ -25,11 +25,13 @@ var _ = require('lodash'); // '_'  is a shorthand for loadash, which is a part o
 // console.log('result is now ' + results);
 
 
-let data= ['person','person',1,2,1,2,'name','age','2'];
+// let data= ['person','person',1,2,1,2,'name','age','2'];
 
-let filter = _.uniq(data); //filters  out the unique elements from an array
+// let filter = _.uniq(data); //filters  out the unique elements from an array
 
-console.log(filter);
+// console.log(filter);
 
-console.log(_.isString('ayush raj')); //true
-console.log(_.isString(20)); //false
+// console.log(_.isString('ayush raj')); //true
+// console.log(_.isString(20)); //false
+
+// DAY-3
