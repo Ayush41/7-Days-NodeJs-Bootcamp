@@ -1,12 +1,12 @@
 console.log('server file is running');
 
-// function add(a,b){
-//     return a+b;
-// }
+function add(a,b){
+    return a+b;
+}
 
-// let add = function(a,b){
-//     return a+b;
-// }
+let add = function(a,b){
+    return a+b;
+}
 
 let add = (a,b)=>{return a+b} //arrow function 箭头函数
 
