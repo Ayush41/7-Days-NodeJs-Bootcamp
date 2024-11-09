@@ -1,17 +1,15 @@
 {
-  "name": "day3",
+  "name": "day4",
   "version": "1.0.0",
-  "description": "",
+  "description": "integration with postman and nosql conntectivity",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
   },
-  "author": "ayushraj",
+  "author": "Ayush Raj",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.19.2",
-    "nodemon": "^3.1.0",
-    "turbowatch": "^2.29.4"
+    "express": "^4.19.2"
   }
 }
