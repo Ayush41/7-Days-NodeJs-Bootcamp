@@ -10,4 +10,3 @@ const server = http.createServer((req,res)=>{
 server.listen(1010,()=>{
     console.log('Server is running on http://localhost:1010');
 });
-
